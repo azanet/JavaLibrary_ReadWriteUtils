@@ -53,11 +53,11 @@ Los metodos disponibles en la clase son los siguientes:
  * --writeTextInFile           =====> Escribir TEXTO a un archivo
  * --writeUniqueObjectInFile   =====> Escribir OBJETO en un Archivo(que contendra UN SOLO OBJETO)
  * --writeSeveralObjectInFile  =====> Escribir VARIOS OBJETOS en un Archivo(que contendra VARIOS OBJETOS)
- 
- 
- 
- *  -------PARA TRABAJAR CON Streams (SOCKETS y Sistema(Mas que nada))-----
- *   OBTENER STRINGS de InputStream - ENVIAR Bytes de STRINGS por OutputStream
+
+
+
+ *              -------PARA TRABAJAR CON Streams (SOCKETS y Sistema(Mas que nada))-----
+ *                OBTENER STRINGS de InputStream - ENVIAR Bytes de STRINGS por OutputStream
 
  * --readOneLine               =====> Lee UNA Linea 
  * --readAllLines              =====> Lee TODAS las Lineas Hasta Recibir UNA Linea VACIA ("") 
