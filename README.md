@@ -10,7 +10,7 @@ y transferencia de ficheros, más facilmente.
 
 
 
-INSTRUCCIONES:
+<h1>INSTRUCCIONES:</h1>
 
 >1 - Agregar "ReadWriteUtils.jar" como "Libreria"
 
