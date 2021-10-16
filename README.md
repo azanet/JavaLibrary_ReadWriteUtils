@@ -39,8 +39,7 @@ Los metodos disponibles en la clase son los siguientes:
 
 
                                        OPERACIONES CON FICHEROS                   
- 
- * --createNewFILE
+  * --createNewFILE
  * --deleteFILE
  * --resetFILE
  * --resetOrCreateFILE         
@@ -55,26 +54,22 @@ Los metodos disponibles en la clase son los siguientes:
  * --writeUniqueObjectInFile   =====> Escribir OBJETO en un Archivo(que contendra UN SOLO OBJETO)
  * --writeSeveralObjectInFile  =====> Escribir VARIOS OBJETOS en un Archivo(que contendra VARIOS OBJETOS)
 
-<br /><br /><br />
+<br/><br/>
 
               -----PARA TRABAJAR CON Streams (SOCKETS y Sistema(Mas que nada))-----
             OBTENER STRINGS de InputStream - ENVIAR Bytes de STRINGS por OutputStream
-
  * --readOneLine               =====> Lee UNA Linea 
  * --readAllLines              =====> Lee TODAS las Lineas Hasta Recibir UNA Linea VACIA ("") 
  * --writeMessage              =====> Envia un Mensaje(STRING)
- * 
- *#############################################################################
- *    OBTENER OBJETOS desde el InputStream - ENVIAR OBJETOS por el OutputStream 
-*##############################################################################
+
+<br/><br/>
+
+             OBTENER OBJETOS desde el InputStream - ENVIAR OBJETOS por el OutputStream 
  * --readObject                =====> Lee un OBJETO 
  * --writeObject               =====> Envia un Objeto
- * 
- * 
- * 
-*##############################################################################
- *                                  DESCARGA y ENVIO de FICHEROS
-*##############################################################################
+
+<br/><br/>
+
+                                  DESCARGA y ENVIO de FICHEROS
  * --requestAndDownloadFile    =====> Solicitar y descargar un archivo del Servidor
  * --sendRequestedFile         =====> Enviar Archivo Solicitado por el Cliente
- * 
