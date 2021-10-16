@@ -1,16 +1,13 @@
 David Freyre Muñoz <https://github.com/azanet>
 <br /><br />
-# JavaLibrary_ReadWriteUtils
+# JavaLibrary_ReadWriteUtils 
 Class to work with "InputStream and OutputStream" Files and Sockets more easily
 
-
-"Libreria ReadWriteUtils"
 Contiene una clase para trabajar con "InputStream y OutputStream" Ficheros, Sockets
 y transferencia de ficheros, más facilmente.
+<br/>
 
-<br /><br />
-
-<h2>INSTRUCCIONES:</h2>
+## INSTRUCCIONES:
 
 1. Agregar "ReadWriteUtils.jar" como "Libreria"
 <br/>
