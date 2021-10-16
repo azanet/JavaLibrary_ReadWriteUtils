@@ -13,12 +13,12 @@ y transferencia de ficheros, más facilmente.
 1. Agregar "ReadWriteUtils.jar" como "Libreria".
 <br/>
 
-2. Importar la libreria en las clases donde vaya a ser utilizada,se debe importar de la siguiente forma.
-  >`import readwriteutils.ReadWriteUtils;`
+2. Importar la libreria en las clases donde vaya a ser utilizada,se debe importar de la siguiente forma.<br/>
+  `import readwriteutils.ReadWriteUtils;`
 <br/>
 
-3. Para hacer uso de sus métodos, debe crearse un objeto de "ReadWriteUtils".
-  >`eadWriteUtils rwUtils = new ReadWriteUtils();`
+3. Para hacer uso de sus métodos, debe crearse un objeto de "ReadWriteUtils".<br/>
+  `ReadWriteUtils rwUtils = new ReadWriteUtils();`
 <br/>
 
 4. Ya podemos hacer uso de sus métodos.
