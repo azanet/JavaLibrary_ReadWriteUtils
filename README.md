@@ -8,16 +8,16 @@ Class to work with "InputStream and OutputStream" Files and Sockets more easily
 Contiene una clase para trabajar con "InputStream y OutputStream" Ficheros, Sockets
 y transferencia de ficheros, más facilmente.
 
+<br /><br />
 
+<h2>INSTRUCCIONES:</h>
 
-<h1>INSTRUCCIONES:</h1>
+*1 - Agregar "ReadWriteUtils.jar" como "Libreria"
 
->1 - Agregar "ReadWriteUtils.jar" como "Libreria"
+*2 - Importar la libreria en las clases donde vaya a ser utilizada,
+se debe importar de la siguiente forma:
 
->2 - Importar la libreria en las clases donde vaya a ser utilizada,
->se debe importar de la siguiente forma:
-
->>import readwriteutils.ReadWriteUtils;
+  >import readwriteutils.ReadWriteUtils;
 
 
 3 - Para hacer uso de sus métodos, debe crearse un objeto de "ReadWriteUtils":
