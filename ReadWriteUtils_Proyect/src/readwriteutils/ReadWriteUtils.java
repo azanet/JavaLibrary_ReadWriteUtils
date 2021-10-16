@@ -39,8 +39,8 @@ import java.util.logging.Logger;
  * --deleteFILE
  * --resetFILE
  * --resetOrCreateFILE
- * --copyFile
- * --addContentFROMFileIN_ToFileOUT =====&gt; Realiza una copia binaria de un archivo (a otro)
+ * --copyFile                  =====&gt; Realiza una copia binaria de un archivo (a otro)
+ * --addContentFROMFileIN_ToFileOUT =&gt; Añade el contenido de "FicherIN" en el "ficheroOUT"
  * --readFileAndPrint          =====&gt; Lee un archivo y lo imprime por pantalla
  * --readFileToString          =====&gt; Lee un archivo y lo retorna todo en una String
  * --readFileToArrayList       =====&gt; Lee un archivo y Retorna un ArrayList con las lineas Leidas 
