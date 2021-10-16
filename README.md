@@ -54,7 +54,7 @@ Los metodos disponibles en la clase son los siguientes:
  * --writeUniqueObjectInFile   =====> Escribir OBJETO en un Archivo(que contendra UN SOLO OBJETO)
  * --writeSeveralObjectInFile  =====> Escribir VARIOS OBJETOS en un Archivo(que contendra VARIOS OBJETOS)
 
-</b></b></b></b>
+<br /><br /><br />
 
               -----PARA TRABAJAR CON Streams (SOCKETS y Sistema(Mas que nada))-----
             OBTENER STRINGS de InputStream - ENVIAR Bytes de STRINGS por OutputStream
