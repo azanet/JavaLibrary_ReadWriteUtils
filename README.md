@@ -14,11 +14,11 @@ y transferencia de ficheros, más facilmente.
 <br/>
 
 2. Importar la libreria en las clases donde vaya a ser utilizada,se debe importar de la siguiente forma.
-  'import readwriteutils.ReadWriteUtils;'
+  >'import readwriteutils.ReadWriteUtils;'
 <br/>
 
 3. Para hacer uso de sus métodos, debe crearse un objeto de "ReadWriteUtils".
-  'ReadWriteUtils rwUtils = new ReadWriteUtils();'
+  >'ReadWriteUtils rwUtils = new ReadWriteUtils();'
 <br/>
 
 4. Ya podemos hacer uso de sus métodos.
