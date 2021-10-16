@@ -37,7 +37,7 @@ así esta nos asistirá a la hora de programar, dándonos una descripción de ca
 Los metodos disponibles en la clase son los siguientes:
 
 
- *                                OPERACIONES CON FICHEROS                   * 
+                                  OPERACIONES CON FICHEROS                   
  
  * --createNewFILE
  * --deleteFILE
