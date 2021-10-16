@@ -37,7 +37,7 @@ así esta nos asistirá a la hora de programar, dándonos una descripción de ca
 Los metodos disponibles en la clase son los siguientes:
 
 
-                                  OPERACIONES CON FICHEROS                   
+                                       OPERACIONES CON FICHEROS                   
  
  * --createNewFILE
  * --deleteFILE
@@ -53,12 +53,12 @@ Los metodos disponibles en la clase son los siguientes:
  * --writeTextInFile           =====> Escribir TEXTO a un archivo
  * --writeUniqueObjectInFile   =====> Escribir OBJETO en un Archivo(que contendra UN SOLO OBJETO)
  * --writeSeveralObjectInFile  =====> Escribir VARIOS OBJETOS en un Archivo(que contendra VARIOS OBJETOS)
- * 
- * 
+ 
+ 
+ 
  *  -------PARA TRABAJAR CON Streams (SOCKETS y Sistema(Mas que nada))-----
-*#############################################################################
  *   OBTENER STRINGS de InputStream - ENVIAR Bytes de STRINGS por OutputStream
-*#############################################################################
+
  * --readOneLine               =====> Lee UNA Linea 
  * --readAllLines              =====> Lee TODAS las Lineas Hasta Recibir UNA Linea VACIA ("") 
  * --writeMessage              =====> Envia un Mensaje(STRING)
@@ -72,7 +72,7 @@ Los metodos disponibles en la clase son los siguientes:
  * 
  * 
 *##############################################################################
- *          DESCARGA y ENVIO de FICHEROS
+ *                                  DESCARGA y ENVIO de FICHEROS
 *##############################################################################
  * --requestAndDownloadFile    =====> Solicitar y descargar un archivo del Servidor
  * --sendRequestedFile         =====> Enviar Archivo Solicitado por el Cliente
