@@ -1,10 +1,10 @@
- # @author David Freyre Muñoz <https://github.com/azanet>
+David Freyre Muñoz <https://github.com/azanet>
 <br /><br />
 # JavaLibrary_ReadWriteUtils
 Class to work with "InputStream and OutputStream" Files and Sockets more easily
 
 
->"Libreria ReadWriteUtils"
+"Libreria ReadWriteUtils"
 Contiene una clase para trabajar con "InputStream y OutputStream" Ficheros, Sockets
 y transferencia de ficheros, más facilmente.
 
@@ -12,12 +12,12 @@ y transferencia de ficheros, más facilmente.
 
 INSTRUCCIONES:
 
-1 - Agregar "ReadWriteUtils.jar" como "Libreria"
+>1 - Agregar "ReadWriteUtils.jar" como "Libreria"
 
-2 - Importar la libreria en las clases donde vaya a ser utilizada,
-se debe importar de la siguiente forma:
+>2 - Importar la libreria en las clases donde vaya a ser utilizada,
+>se debe importar de la siguiente forma:
 
-import readwriteutils.ReadWriteUtils;
+>>import readwriteutils.ReadWriteUtils;
 
 
 3 - Para hacer uso de sus métodos, debe crearse un objeto de "ReadWriteUtils":
@@ -25,14 +25,15 @@ import readwriteutils.ReadWriteUtils;
 ReadWriteUtils rwUtils = new ReadWriteUtils();
 
 4 - y ya podemos hacer uso de sus métodos.
----------------------------------------------------------------------------
+
 La DOCUMENTACION (Javadoc) se encuentra en la carpeta "javadoc", hay que
 Visualizar(abrir) el archivo "index.html"
 
 También podemos enlazar(desde el IDE, ya cada uno es a su manera) la CARPETA 
 DEL javadoc a nuestra libreria cuando la importemos.
 Así esta nos asistirá a la hora de programar, dándonos una descripción de cada método.
----------------------------------------------------------------------------
+
+
 
 Los metodos disponibles en la clase son los siguientes:
 
