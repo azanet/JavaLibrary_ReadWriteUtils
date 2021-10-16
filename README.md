@@ -23,8 +23,9 @@ y transferencia de ficheros, más facilmente.
 
 4. Ya podemos hacer uso de sus métodos.
 <hr/>
-<br/><br/>
-## DOCUMENTACION (Javadoc);
+<br/><br/><br/>
+## DOCUMENTACION (Javadoc):
+
 La DOCUMENTACION (Javadoc) se encuentra en la carpeta "javadoc", hay que
 Visualizar(abrir) el archivo "index.html"
 
