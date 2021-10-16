@@ -10,22 +10,20 @@ y transferencia de ficheros, más facilmente.
 
 <br /><br />
 
-<h2>INSTRUCCIONES:</h>
+<h2>INSTRUCCIONES:</h2>
 
-*1 - Agregar "ReadWriteUtils.jar" como "Libreria"
-
-*2 - Importar la libreria en las clases donde vaya a ser utilizada,
+1. Agregar "ReadWriteUtils.jar" como "Libreria"
+<br/>
+2. Importar la libreria en las clases donde vaya a ser utilizada,
 se debe importar de la siguiente forma:
+*import readwriteutils.ReadWriteUtils;*
+<br/>
+3. Para hacer uso de sus métodos, debe crearse un objeto de "ReadWriteUtils":
+*ReadWriteUtils rwUtils = new ReadWriteUtils();*
+<br/>
+4. Ya podemos hacer uso de sus métodos.
 
-  >import readwriteutils.ReadWriteUtils;
-
-
-3 - Para hacer uso de sus métodos, debe crearse un objeto de "ReadWriteUtils":
-
-ReadWriteUtils rwUtils = new ReadWriteUtils();
-
-4 - y ya podemos hacer uso de sus métodos.
-
+<br/><br/>
 La DOCUMENTACION (Javadoc) se encuentra en la carpeta "javadoc", hay que
 Visualizar(abrir) el archivo "index.html"
 
