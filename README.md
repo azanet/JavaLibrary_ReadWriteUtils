@@ -36,9 +36,9 @@ así esta nos asistirá a la hora de programar, dándonos una descripción de ca
 
 Los metodos disponibles en la clase son los siguientes:
 
- *##############################################################################
+
  *                    OPERACIONES CON FICHEROS
- *##############################################################################
+
  * --createNewFILE
  * --deleteFILE
  * --resetFILE
@@ -77,10 +77,3 @@ Los metodos disponibles en la clase son los siguientes:
  * --requestAndDownloadFile    =====> Solicitar y descargar un archivo del Servidor
  * --sendRequestedFile         =====> Enviar Archivo Solicitado por el Cliente
  * 
- * -----------------------------------------------------------------------------
- *   !!!--> ESTAS SIGUIENTES CLASES,Son utilizadas en la transferencia
- *   (DESCARGA y ENVIO de FICHEROS), Meter en un mismo paquete en AMBAS CLASES
- * -----------------------------------------------------------------------------
- * --OBJFileSubmission         =====> Clase usada para la transferencia 
- * --OBJFileRequest            =====> Clase usada para la transferencia 
- 
